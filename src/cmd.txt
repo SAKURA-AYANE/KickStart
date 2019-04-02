@@ -1,0 +1,12 @@
+javac roundG2018/ProblemA_small.java
+java roundG2018.ProblemA_small < A-small-attempt2.in > output_A_small.txt
+javac roundG2018/ProblemA_large.java
+java roundG2018.ProblemA_large < A-large-practice.in > output_A_large.txt
+javac roundG2018/ProblemB_small.java
+java roundG2018.ProblemB_small < B-small-practice.in > output_A_small.txt
+javac roundG2018/ProblemB_large.java
+java roundG2018.ProblemB_large < B-large-practice.in > output_A_large.txt
+javac roundG2018/ProblemC_small.java
+java roundG2018.ProblemC_small < C-small-practice.in > output_A_small.txt
+javac roundG2018/ProblemC_large.java
+java roundG2018.ProblemC_large < C-large-practice.in > output_A_large.txt
